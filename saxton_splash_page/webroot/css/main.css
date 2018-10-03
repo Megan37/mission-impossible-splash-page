@@ -1,0 +1,56 @@
+html, body {
+    background-color:  rgb(22, 27, 34);
+}
+
+.border_helper, .section {
+border: 1px solid white;
+}
+
+#content-wrapper {
+    margin: 0 auto;
+}
+
+#content-wrapper, #top {
+    position: relative;
+    background-image: url("../img/mission-assets/helicopterguy.jpg");
+    width: 1400px;
+    height: 830px;
+}
+
+#content-wrapper, #middle {
+    position: relative;
+    width: 1400px;
+    height: 830px;
+}
+
+#content-wrapper, #bottom {
+    position: relative;
+    width: 1400px;
+    height: 830px;
+}
+
+#synopsis {
+    position: relative;
+    border: 1px solid white;
+    width: 500px;
+    height: 300px;
+    margin: 100px 800px;
+    color: white;
+}
+
+#poster {
+    position: relative;
+    border: 1px solid white;
+    width: 400px;
+    height: 600px;
+    margin: 100px 200px;
+}
+
+h1, h2, h3 {
+    position: relative;
+    text-align: center;
+    color: white;;
+}
+
+
+
